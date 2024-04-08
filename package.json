@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start":"tsc && nodemon ./dist/src/api"
+    "start": "tsc && nodemon ./src/api.ts"
   },
   "license": "MIT",
   "dependencies": {
